@@ -12,4 +12,6 @@
 /captures
 .externalNativeBuild
 .cxx
+.obsisian
+.vscode
 local.properties
